@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.1
-versionCode=11
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=Magisk-Daydream
+name=Magisk Daydream
+version=v0.1
+versionCode=1
+author=Hyacin
+description=Hyacin's Magisk Daydream
+updateJson=https://raw.githubusercontent.com/hyacin75/Magisk-Daydream/master/update.json
