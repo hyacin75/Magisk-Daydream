@@ -1,6 +1,6 @@
 {
   "version": "v0.1",
-  "versionCode": 1,
-  "zipUrl": "https://raw.githubusercontent.com/hyacin75/Magisk-Daydream/install.zip",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/hyacin75/Magisk-Daydream/releases/download/v0.1/Magisk-Daydream-v0.1.zip",
   "changelog": "https://raw.githubusercontent.com/hyacin75/Magisk-Daydream/master/CHANGELOG"
 }
